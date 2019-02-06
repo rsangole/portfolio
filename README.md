@@ -5,6 +5,8 @@ This repo holds project reports and resumes for my data science work.
 * [Resume](https://github.com/rsangole/portfolio/tree/master/resume) holds the latest copy of my resume.
 * [Reports](https://github.com/rsangole/portfolio/tree/master/reports) holds project reports for my academic project work at Northwestern. Here's a summary of the projects:
 
+---
+
 -	Sales price prediction for Ames housing dataset using multilinear regression modeling using _lm_
 -	Wins per game predictive modeling for 186 years of baseball data using regression and decision trees using _glm, broom_
 -	Wine case purchase volume predictive modeling using poisson, negative binomial, and hurdle models using _glm, caret, broom_
